@@ -1,4 +1,4 @@
-# Moving Robotic Arm using ROS
+# Simulating a Robotic Arm in ROS
 
 
 --- 
